@@ -1,0 +1,2 @@
+# lmptut
+LAMMPS tutorial
